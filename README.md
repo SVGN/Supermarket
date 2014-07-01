@@ -1,4 +1,10 @@
-Supermarket
-===========
+Project contributors
+====================
 
-TelerikAcademy teamwork project for Databases course.
+Team “Manhattan” & Team “Espresso Martini”
+
+MARTIN SPASOV
+PLAMEN YOVCHEV
+OLEG NEOFITOV
+SEVGIN HASHIMOV /me
+IVAN PETROV
